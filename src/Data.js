@@ -20,8 +20,8 @@ export default [
         description: "This is a sequel to Dr Strange released in 2016 which has high expections among fans all over the world.",
        trailer: "https://youtu.be/aWzlQ2N6qqg"
     },    {
-        title: "Jurassic World Dominion",
-        releaseDate: " 10 June 2022 ",
+        title: "Thor Love And Thunder",
+        releaseDate: " 8 July 2022 ",
         imgUrl: "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/4vAOnWLarDb3bW3B195cPDa3CEgwoJ.jpg",
         description: "This is a sequel to Dr Strange released in 2016 which has high expections among fans all over the world.",
        trailer: "https://youtu.be/aWzlQ2N6qqg"
