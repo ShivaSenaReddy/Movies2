@@ -34,8 +34,15 @@ export default [
         trailer: "https://youtu.be/aWzlQ2N6qqg"
     },
     {
-        title: "Avatar",
-        releaseDate: " 10 June 2022 ",
+        title: "Avatar 2",
+        releaseDate: " 16 December 2022 ",
+        imgUrl: "https://m.media-amazon.com/images/M/MV5BMjQzZTA2MmEtNDcwYy00ZWE0LWFlODMtOWQ2MzRjNTgyYmVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        description: "This is a sequel to Dr Strange released in 2016 which has high expections among fans all over the world.",
+        trailer: "https://youtu.be/aWzlQ2N6qqg"
+    },
+    {
+        title: "Shazam 2",
+        releaseDate: " 16 December 2022 ",
         imgUrl: "https://m.media-amazon.com/images/M/MV5BMjQzZTA2MmEtNDcwYy00ZWE0LWFlODMtOWQ2MzRjNTgyYmVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
         description: "This is a sequel to Dr Strange released in 2016 which has high expections among fans all over the world.",
         trailer: "https://youtu.be/aWzlQ2N6qqg"
